@@ -3,3 +3,4 @@
 *.iml
 target/
 */target/*
+src/main/webapp/lib

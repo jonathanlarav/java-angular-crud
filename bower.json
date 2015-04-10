@@ -1,0 +1,24 @@
+{
+  "name": "java-angular-crud",
+  "version": "0.1.1",
+  "homepage": "https://github.com/jonathanlarav/java-angular-crud",
+  "authors": [
+    "Jonathan Lara <jonathanlarav@gmail.com>"
+  ],
+  "description": "AngularJS + Jersey",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4",
+    "angular-route": "~1.3.15",
+    "angular-resource": "~1.3.15"
+  }
+}
